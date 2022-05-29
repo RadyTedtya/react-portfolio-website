@@ -22,7 +22,7 @@ const About = () => {
                     <div className="about__cards">
                          <article className="about__card">  
                              <FaAward className="about__icon"/>
-                            <h5>Experience</h5>
+                            <h5>Experiences</h5>
                             <small>2 Years Working</small>
                          </article>
 
@@ -34,7 +34,7 @@ const About = () => {
                          
                          <article className="about__card">
                              <AiOutlineFundProjectionScreen className="about__icon"/>
-                            <h5>Porjects</h5>
+                            <h5>Projects</h5>
                             <small>5+ projects</small>
                          </article>
                     </div>
